@@ -1,2 +1,2 @@
 (window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["vuetify"],{"2d2f":function(e,n,t){"use strict";t.r(n);var u=function(){var e=this,n=e.$createElement,t=e._self._c||n;return t("div")},i=[],l={name:"vuetify"},a=l,c=t("2877"),r=Object(c["a"])(a,u,i,!1,null,null,null);n["default"]=r.exports}}]);
-//# sourceMappingURL=vuetify.9dbdcbe4.js.map
+//# sourceMappingURL=vuetify.0cbcbb71.js.map

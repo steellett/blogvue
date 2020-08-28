@@ -1,2 +1,0 @@
-(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["transform"],{"62e7":function(n,t,e){"use strict";e.r(t);var s=function(){var n=this,t=n.$createElement,e=n._self._c||t;return e("div",{staticClass:"blog"},[n._v(" sometext ")])},a=[],r={name:"transform"},o=r,c=(e("d82b"),e("2877")),u=Object(c["a"])(o,s,a,!1,null,null,null);t["default"]=u.exports},"631d":function(n,t,e){},d82b:function(n,t,e){"use strict";var s=e("631d"),a=e.n(s);a.a}}]);
-//# sourceMappingURL=transform.d5217ce5.js.map
